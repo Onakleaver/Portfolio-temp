@@ -27092,7 +27092,7 @@ var _stylesCss = require("./styles.css");
     email: "",
     gitHub: "Onakleaver",
     instagram: "",
-    linkedIn: "@Kleaver_Onani",
+    linkedIn: "@KleaverOnani",
     medium: "",
     twitter: "@OnaniKleaver",
     youTube: ""
