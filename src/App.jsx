@@ -29,7 +29,7 @@ const siteProps = {
   email: "",
   gitHub: "Onakleaver",
   instagram: "",
-  linkedIn: "kleaveronani",
+  linkedIn: "@kleaveronani",
   medium: "",
   twitter: "@OnaniKleaver",
   youTube: "",
